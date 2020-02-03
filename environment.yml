@@ -2,13 +2,13 @@ name: ciencia-de-dados
 channels:
   - conda-forge
 dependencies:
-  - python-3.8
+  - python=3.8
   - numpy
   - matplotlib
   - seaborn
   - pandas
   - statsmodels
-  - sklearn
+  - scikit-learn 
   - rise
   - pip:
     - jupyter-contrib-nbextensions
