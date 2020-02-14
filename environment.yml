@@ -7,7 +7,7 @@ dependencies:
   - numpy
   - matplotlib
   - seaborn
-  - pandas-1.0.1
+  - pandas=1.0.1
   - statsmodels
   - scikit-learn
   - tensorflow=2.0.0
