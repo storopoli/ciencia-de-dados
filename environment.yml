@@ -7,10 +7,10 @@ dependencies:
   - numpy
   - matplotlib
   - seaborn
-  - pandas
+  - pandas-1.0.1
   - statsmodels
   - scikit-learn
-  - tensorflow 
+  - tensorflow=2.0.0
   - rise
   - pip:
     - jupyter-contrib-nbextensions
