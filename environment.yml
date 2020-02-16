@@ -11,7 +11,7 @@ dependencies:
   - statsmodels
   - pymc3
   - scikit-learn
-  - tensorflow
+  - tensorflow=2.0.0
   - xgboost
   - rise
   - pip:
