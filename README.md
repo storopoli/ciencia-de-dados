@@ -30,5 +30,5 @@ Este conteúdo possui *licença livre para uso*. Caso queira utilizar o conteúd
 * [**Aula 6** - `NumPy` e Algebra Linear](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_6_Numpy_Algebra_Linear.ipynb)
 * [**Aula 7** - `pandas`](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_7_pandas.ipynb)
 * [**Aula 8** - `pandas` estatística](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_8_pandas_estatistica.ipynb)
-* [**Aula 9** - Análise Exploratória de Dados](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_9_analise_exploratoria_de_dados.ipynb)
+* [**Aula 9** - Gráficos com `matplotlib` e `pandas`](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_9_graficos.ipynb)
 
