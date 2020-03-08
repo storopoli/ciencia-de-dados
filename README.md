@@ -33,4 +33,5 @@ Este conteúdo possui *licença livre para uso*. Caso queira utilizar o conteúd
 * [**Aula 8** - `pandas` estatística](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_8_pandas_estatistica.ipynb)
 * [**Aula 9** - Gráficos com `matplotlib` e `pandas`](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_9_graficos.ipynb)
 * [**Aula 10** - Machine Learning](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_10_Machine_Learning.ipynb)
+* [**Aula 11** - Regressão Linear](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_11_Regressao_Linear.ipynb)
 
