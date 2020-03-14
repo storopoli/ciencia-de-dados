@@ -34,6 +34,7 @@ Este conteúdo possui *licença livre para uso*. Caso queira utilizar o conteúd
 * [**Aula 9** - Gráficos com `matplotlib` e `pandas`](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_9_graficos.ipynb)
 * [**Aula 10** - Machine Learning](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_10_Machine_Learning.ipynb)
 * [**Aula 11** - Regressão Linear](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_11_Regressao_Linear.ipynb)
+* [**Aula 12** - Regressão Logística](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_12_Regressao_Logistica.ipynb)
 
 ## Colaboradores
 * [@EduardPontez](https://github.com/EduardPontez)
