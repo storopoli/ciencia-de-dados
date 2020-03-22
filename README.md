@@ -35,6 +35,7 @@ Este conteúdo possui *licença livre para uso*. Caso queira utilizar o conteúd
 * [**Aula 10** - Machine Learning](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_10_Machine_Learning.ipynb)
 * [**Aula 11** - Regressão Linear](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_11_Regressao_Linear.ipynb)
 * [**Aula 12** - Regressão Logística](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_12_Regressao_Logistica.ipynb)
+* [**Aula 13** - Support Vector Machines](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_13_Support_Vector_Machines.ipynb)
 
 ## Colaboradores
 * [@EduardPontez](https://github.com/EduardPontez)
