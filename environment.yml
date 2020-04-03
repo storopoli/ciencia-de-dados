@@ -8,11 +8,8 @@ dependencies:
   - matplotlib
   - seaborn
   - pandas
-  - statsmodels
-  - pymc3
+  - openpyxl
   - scikit-learn
-  - tensorflow=2.0.0
-  - xgboost
   - rise
   - pip:
     - jupyter-contrib-nbextensions
