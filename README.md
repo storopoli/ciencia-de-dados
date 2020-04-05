@@ -22,6 +22,7 @@ Este conteúdo possui *licença livre para uso*. Caso queira utilizar o conteúd
 
 ## Notebooks
 
+* [**Aula Especial** - Curso Rápido de Python para Programadores](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_Especial_Python.ipynb) 
 * [**Aula 0** - Jupyter Notebook](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_0_Jupyter.ipynb) 
 * [**Aula 1** - Operadores aritméticos, relacionais e lógicos](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_1_Operadores_Aritmeticos_Relacionais_e_Logicos.ipynb) 
 * [**Aula 2** - Desvio Condicional (`IF`)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_2_Desvio_Condicional_IF.ipynb)
