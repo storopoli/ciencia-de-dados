@@ -6,7 +6,7 @@ Primeiro Semestre de 2020
 
 ## Professor
 
-Prof. Dr. José Eduardo Storopoli – [Currículo *Lattes*](http://lattes.cnpq.br/2281909649311607)
+Prof. Dr. José Eduardo Storopoli - [Currículo *Lattes*](http://lattes.cnpq.br/2281909649311607) - [ORCID](https://orcid.org/0000-0002-0559-5176)
 
 [josees@uni9.pro.br](mailto:josees@uni9.pro.br)
 
@@ -15,7 +15,7 @@ Prof. Dr. José Eduardo Storopoli – [Currículo *Lattes*](http://lattes.cnpq.b
 Este conteúdo possui *licença livre para uso*. Caso queira utilizar o conteúdo para um curso ou estudos, por favor colabore nesse repositório quaisquer aprimorações que foram realizadas.
 
 * **[Mapas Conceituais](https://github.com/storopoli/ciencia-de-dados/tree/master/Mapas%20Conceituais)**: para cada aula há um *mapa conceitual* que define quais são os conceitos e as relações entre eles
-* **[Cheatsheets](https://github.com/storopoli/ciencia-de-dados/tree/master/cheatsheets)**: cheatsheets das principais bibliotecas de *Python* .
+* **[Cheatsheets](https://github.com/storopoli/ciencia-de-dados/tree/master/cheatsheets)**: cheatsheets das principais bibliotecas de *Python*
 * [**Livros**](https://github.com/storopoli/ciencia-de-dados/tree/master/livros): livros-texto para aprofundamento nos tópicos de Ciência de Dados
 * **[Flashcards](https://github.com/storopoli/ciencia-de-dados/tree/master/flashcards)**: ilustrações com definições dos principais conceitos de Ciência de Dados
 * **[Notebooks](https://github.com/storopoli/ciencia-de-dados/tree/master/notebooks)**: Jupyter Notebooks das aulas
