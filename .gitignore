@@ -1,4 +1,3 @@
-Edson/
 AVA/
 Avaliações/
 
@@ -12,5 +11,9 @@ Avaliações/
 # IPython
 profile_default/
 ipython_config.py
+
+# Files
 .DS_Store
 *.gslides
+.xlsx
+.xls

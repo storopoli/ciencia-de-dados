@@ -1,8 +1,16 @@
 # Ciência de Dados
 
-Disciplina do Curso de *Ciências da Computação* da **UNINOVE**
+Disciplina do Curso de *Ciências da Computação* da [**UNINOVE**](https://www.uninove.br)
 
 Primeiro Semestre de 2020
+
+## Conteúdo
+
+* **Python**
+* **Álgebra Linear com `NumPy`**
+* **Análise de Dados com `pandas`**
+* **Visualização de Dados com `pandas`, `matplotlib` e `seaborn`**
+* **Machine Learning com `Scikit-Learn`**
 
 ## Professor
 
@@ -15,9 +23,6 @@ Prof. Dr. José Eduardo Storopoli - [Currículo *Lattes*](http://lattes.cnpq.br/
 Este conteúdo possui *licença livre para uso*. Caso queira utilizar o conteúdo para um curso ou estudos, por favor colabore nesse repositório quaisquer aprimorações que foram realizadas.
 
 * **[Mapas Conceituais](https://github.com/storopoli/ciencia-de-dados/tree/master/Mapas%20Conceituais)**: para cada aula há um *mapa conceitual* que define quais são os conceitos e as relações entre eles
-* **[Cheatsheets](https://github.com/storopoli/ciencia-de-dados/tree/master/cheatsheets)**: cheatsheets das principais bibliotecas de *Python*
-* [**Livros**](https://github.com/storopoli/ciencia-de-dados/tree/master/livros): livros-texto para aprofundamento nos tópicos de Ciência de Dados
-* **[Flashcards](https://github.com/storopoli/ciencia-de-dados/tree/master/flashcards)**: ilustrações com definições dos principais conceitos de Ciência de Dados
 * **[Notebooks](https://github.com/storopoli/ciencia-de-dados/tree/master/notebooks)**: Jupyter Notebooks das aulas
 
 ## Notebooks
