@@ -2,7 +2,7 @@
 
 Disciplina do Curso de *Ciências da Computação* da [**UNINOVE**](https://www.uninove.br)
 
-Segund Semestre de 2020
+Segundo Semestre de 2020
 
 ## Conteúdo
 
