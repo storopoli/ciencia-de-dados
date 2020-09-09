@@ -11,6 +11,7 @@ Segundo Semestre de 2020
 * **Análise de Dados com `pandas`**
 * **Visualização de Dados com `pandas`, `matplotlib` e `seaborn`**
 * **Machine Learning com `Scikit-Learn`**
+* **Redes Neurais com `TensorFlow` e `Keras`**
 
 ## Professor
 
@@ -50,7 +51,3 @@ Este conteúdo possui *licença livre para uso*. Caso queira utilizar o conteúd
 
 ## Colaboradores
 * [@EduardPontez](https://github.com/EduardPontez)
-
-```python
-
-```
