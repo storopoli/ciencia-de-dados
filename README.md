@@ -1,8 +1,8 @@
 # Ciência de Dados
 
-Disciplina do Curso de *Ciências da Computação* da [**UNINOVE**](https://www.uninove.br)
+Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](https://www.uninove.br).
 
-Segundo Semestre de 2020
+![backprop](notebooks/images/backpropagation.gif)
 
 ## Conteúdo
 
@@ -23,7 +23,6 @@ Prof. Dr. José Eduardo Storopoli - [Currículo *Lattes*](http://lattes.cnpq.br/
 
 Este conteúdo possui *licença livre para uso*. Caso queira utilizar o conteúdo para um curso ou estudos, por favor colabore nesse repositório quaisquer aprimorações que foram realizadas.
 
-* **[Mapas Conceituais](https://github.com/storopoli/ciencia-de-dados/tree/master/Mapas%20Conceituais)**: para cada aula há um *mapa conceitual* que define quais são os conceitos e as relações entre eles
 * **[Notebooks](https://github.com/storopoli/ciencia-de-dados/tree/master/notebooks)**: Jupyter Notebooks das aulas
 
 ## Notebooks
