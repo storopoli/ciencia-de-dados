@@ -1,0 +1,29 @@
+name: "Ciência de Dados"
+title: "Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow"
+base_url: https://storopoli.github.io/ciencia-de-dados
+google_analytics: "G-BMYSQ6YVCK"
+theme: "theme.css"
+output_dir: "docs"
+alt_formats: true
+navbar:
+  logo:
+    image: images/uninove.png
+    href: https://www.uninove.br
+  source_url: https://github.com/storopoli/ciencia-de-dados
+  search: true
+  right:
+    - icon: ai ai-google-scholar ai-lg
+      href: https://scholar.google.com/citations?user=xGU7H1QAAAAJ&hl=en
+    - icon: ai ai-orcid ai-lg
+      href: https://orcid.org/0000-0002-0559-5176
+    - icon: ai ai-lattes ai-lg
+      href: http://lattes.cnpq.br/2281909649311607
+output:
+  distill::distill_article:
+    toc: true
+    toc_float: true
+    highlight: tango
+    highlight_downlit: true
+    self_contained: false
+creative_commons: CC BY-SA
+repository_url: https://github.com/storopoli/ciencia-de-dados

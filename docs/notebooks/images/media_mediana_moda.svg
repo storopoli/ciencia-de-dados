@@ -1,0 +1,61 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-6 -5 112 192">
+ <title>Visualisation mode median mean</title>
+ <desc>Geometric visualisation of the mode, median and mean of an arbitrary probability density function by CMG Lee.</desc>
+ <defs>
+  <pattern id="pattern_left"  patternUnits="userSpaceOnUse" width="4" height="4"><path d="M 2,0 L 4,2 M 2,4 L 0,2" stroke-linecap="round" stroke="#ffff00" fill="none"/></pattern>
+  <pattern id="pattern_right" patternUnits="userSpaceOnUse" width="4" height="4"><path d="M 2,0 L 0,2 M 2,4 L 4,2" stroke-linecap="round" stroke="#99ffff" fill="none"/></pattern>
+  <path id="left"  d="M 30,-30 C 10,-50 15,-20  0,0 H 30"/>
+  <path id="right" d="M 30,-30 C 40,-20 70,-5 100,0 H 30"/>
+  <g id="area" stroke="#000000" fill="#000000" fill-opacity="0.25">
+   <use xlink:href="#left"/>
+   <use xlink:href="#right"/>
+  </g>
+ </defs>
+
+ <circle cx="0" cy="0" r="99999" fill="#ffffff"/>
+ <g font-family="Arial,Helvetica,sans-serif" font-size="12" text-anchor="middle" stroke-linecap="round" stroke-linejoin="round" stroke="none" fill="#000000">
+  <g transform="translate(0,40)">
+   <path d="M 10,-37 H  30" stroke="#ff9900"/>
+   <use xlink:href="#area"/>
+   <path d="M 20,  5 V -37" stroke="#cc0000"/>
+   <switch allowReorder="yes">
+    <text systemLanguage="es" x="20" y="15">moda</text>
+    <text systemLanguage="fi" x="20" y="15">moodin</text>
+    <text systemLanguage="uk" x="20" y="15">мода</text>
+	<text systemLanguage="vi" x="20" y="15">yếu vị</text>
+    <text                     x="20" y="15">mode</text>
+   </switch>
+  </g>
+  <g transform="translate(0,100)">
+   <use xlink:href="#left"  fill="url(#pattern_left)"/>
+   <use xlink:href="#right" fill="url(#pattern_right)"/>
+   <use xlink:href="#area"/>
+   <path d="M 30,5 V -30" stroke="#009900"/>
+   <g font-size="10">
+    <text x="18" y="-5">50%</text>
+    <text x="42" y="-5">50%</text>
+   </g>
+   <switch allowReorder="yes">
+    <text systemLanguage="es" x="30" y="15">mediana</text>
+    <text systemLanguage="fi" x="30" y="15">mediaanin</text>
+    <text systemLanguage="uk" x="30" y="15">медіана</text>
+	<text systemLanguage="vi" x="30" y="15">trung vị</text>
+    <text                     x="30" y="15">median</text>
+   </switch>
+  </g>
+  <g transform="translate(0,160)">
+   <use xlink:href="#area"/>
+   <rect x="20" y="5" width="30" height="5" fill="url(#pattern_right)"/>
+   <path d="M 30,5 L 35,0.5 L 40,5" fill="#0000ff"/>
+   <path d="M 20,5 H 50  M -2,-5 A 10,10 0 0 0 0,5 M -4,-4 A 10,10 0 0 0 -2,5  M 102,-5 A 10,10 0 0 1 100,5 M 104,-4 A 10,10 0 0 1 102,5" stroke="#ccccff" fill="none"/>
+   <switch allowReorder="yes">
+    <text systemLanguage="es" x="35" y="20">media</text>
+    <text systemLanguage="fi" x="35" y="20">odotusarvo</text>
+    <text systemLanguage="uk" x="35" y="20">середнє</text>
+	<text systemLanguage="vi" x="35" y="20">bình quân</text>
+    <text                     x="35" y="20">mean</text>
+   </switch>
+  </g>
+ </g>
+</svg>

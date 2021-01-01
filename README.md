@@ -1,5 +1,7 @@
 # Ciência de Dados
 
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
 Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](https://www.uninove.br).
 
 ![backprop](notebooks/images/backpropagation.gif)
@@ -21,7 +23,13 @@ Prof. Dr. José Eduardo Storopoli - [Currículo *Lattes*](http://lattes.cnpq.br/
 
 ## Como usar esse conteúdo?
 
-Este conteúdo possui *licença livre para uso*. Caso queira utilizar o conteúdo para um curso ou estudos, por favor colabore nesse repositório quaisquer aprimorações que foram realizadas.
+Este conteúdo possui *licença livre para uso* (CC BY-SA). Caso queira utilizar o conteúdo para um curso ou estudos, por favor colabore nesse repositório quaisquer aprimorações que foram realizadas.
+
+Para configurar um ambiente local:
+
+1. Clone o repositório do GitHub: `git clone https://github.com/storopoli/ciencia-de-dados.git`
+2. Acesse o diretório: `cd ciencia-de-dados`
+3. Instale as bibliotecas necessárias: `pip install -r requirements.txt ` ou `conda env create -f environment.yml`
 
 * **[Notebooks](https://github.com/storopoli/ciencia-de-dados/tree/master/notebooks)**: Jupyter Notebooks das aulas
 
@@ -50,3 +58,14 @@ Este conteúdo possui *licença livre para uso*. Caso queira utilizar o conteúd
 
 ## Colaboradores
 * [@EduardPontez](https://github.com/EduardPontez)
+
+## Licença
+
+Este obra está licenciado com uma Licença
+[Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg

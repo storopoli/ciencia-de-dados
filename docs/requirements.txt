@@ -1,0 +1,10 @@
+pip
+numpy
+matplotlib
+seaborn
+pandas
+openpyxl
+scikit-learn
+tensorflow
+rise
+jupyter-contrib-nbextensions
