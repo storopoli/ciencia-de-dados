@@ -61,7 +61,7 @@ Para configurar um ambiente local:
 Para citar o conteúdo use: 
 
 ```
-Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Retrieved from https://storopoli.github.io/ciencia-de-dados
+Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.github.io/ciencia-de-dados
 ```
 
 Ou em formato BibTeX para LaTeX:
