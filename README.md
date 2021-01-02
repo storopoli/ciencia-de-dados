@@ -56,7 +56,27 @@ Para configurar um ambiente local:
 * **Aula 17** - Análise de Agrupamentos (Clusterização) com `Scikit-Learn`[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_17_Clusterizacao.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_17_Clusterizacao.ipynb)
 * **Aula 18** - Redes Neurais com `TensorFlow` e `Keras` [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_18_Redes_Neurais_com_TensorFlow.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_18_Redes_Neurais_com_TensorFlow.ipynb)
 
+## Como citar esse conteúdo
+
+Para citar o conteúdo use: 
+
+```
+Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Retrieved from https://storopoli.github.io/ciencia-de-dados
+```
+
+Ou em formato BibTeX para LaTeX:
+
+```
+@misc{storopoli2020cienciadedados,
+  author = {Storopoli, Jose},
+  title = {Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados},
+  url = {https://storopoli.github.io/ciencia-de-dados},
+  year = {2020}
+}
+```
+
 ## Colaboradores
+
 * [@EduardPontez](https://github.com/EduardPontez)
 
 ## Licença

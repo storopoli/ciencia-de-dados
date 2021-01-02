@@ -20,3 +20,5 @@ ipython_config.py
 .xlsx
 .xls
 *.xlsx
+README_files
+README.html
