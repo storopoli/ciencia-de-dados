@@ -17,7 +17,7 @@ Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](ht
 
 ## Professor
 
-Prof. Dr. José Eduardo Storopoli - [Currículo *Lattes*](http://lattes.cnpq.br/2281909649311607) - [ORCID](https://orcid.org/0000-0002-0559-5176)
+[Prof. Dr. José Eduardo Storopoli](https://storopoli.io) - [Currículo *Lattes*](http://lattes.cnpq.br/2281909649311607) - [ORCID](https://orcid.org/0000-0002-0559-5176)
 
 [josees@uni9.pro.br](mailto:josees@uni9.pro.br)
 
@@ -61,7 +61,7 @@ Para configurar um ambiente local:
 Para citar o conteúdo use: 
 
 ```
-Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.github.io/ciencia-de-dados
+Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
 ```
 
 Ou em formato BibTeX para LaTeX:
@@ -70,14 +70,10 @@ Ou em formato BibTeX para LaTeX:
 @misc{storopoli2020cienciadedados,
   author = {Storopoli, Jose},
   title = {Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados},
-  url = {https://storopoli.github.io/ciencia-de-dados},
+  url = {https://storopoli.io/ciencia-de-dados},
   year = {2020}
 }
 ```
-
-## Colaboradores
-
-* [@EduardPontez](https://github.com/EduardPontez)
 
 ## Licença
 

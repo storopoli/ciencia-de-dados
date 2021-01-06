@@ -12,7 +12,7 @@ dependencies:
   - openpyxl
   - xlrd
   - scikit-learn
-  - tensorflow >= 2.0
   - rise
   - pip:
     - jupyter-contrib-nbextensions
+    - tensorflow >= 2.0

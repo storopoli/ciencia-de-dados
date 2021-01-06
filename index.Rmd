@@ -10,19 +10,12 @@ author:
     orcid_id: 0000-0002-0559-5176
 site: distill::distill_website
 date: March 2, 2020
-citation_url: https://storopoli.github.io/ciencia-de-dados
+citation_url: https://storopoli.io/ciencia-de-dados
 slug: storopoli2020cienciadedados
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
 ```
 
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"/>
@@ -44,7 +37,7 @@ Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](ht
 
 ## Professor
 
-Prof. Dr. José Eduardo Storopoli <a href="https://storopoli.github.io"><i class="fa fa-globe fa-lg"></i></a> <a href="http://lattes.cnpq.br/2281909649311607"><i class="ai ai-lattes ai-lg"></i></a> <a href="https://orcid.org/0000-0002-0559-5176"><i class="ai ai-orcid ai-lg"></i></a> <a href="mailto:josees@uni9.pro.br"><i class="fa fa-paper-plane fa-lg"></i></a>
+Prof. Dr. José Eduardo Storopoli <a href="https://storopoli.io"><i class="fa fa-globe fa-lg"></i></a> <a href="http://lattes.cnpq.br/2281909649311607"><i class="ai ai-lattes ai-lg"></i></a> <a href="https://orcid.org/0000-0002-0559-5176"><i class="ai ai-orcid ai-lg"></i></a> <a href="mailto:josees@uni9.pro.br"><i class="fa fa-paper-plane fa-lg"></i></a>
 
 ## Como usar esse conteúdo?
 
