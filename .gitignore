@@ -14,7 +14,7 @@ profile_default/
 ipython_config.py
 
 # Virtual env
-env/
+.env/
 
 # Files
 .DS_Store
