@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](https://www.uninove.br).
 
-![backprop](notebooks/images/backpropagation.gif)
+![backprop](images/backpropagation.gif)
 
 ## Conteúdo
 
@@ -54,7 +54,7 @@ Para configurar um ambiente local:
 ## Notebooks
 
 * **Aula Especial** - Curso Rápido de Python para Programadores [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_Especial_Python.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_Especial_Python.ipynb)
-* **Aula 0** - Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_0_Jupyter.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_0_Jupyter.ipynb) 
+* **Aula 0** - Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_0_Jupyter.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_0_Jupyter.ipynb)
 * **Aula 1** - Operadores aritméticos, relacionais e lógicos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_1_Operadores_Aritmeticos_Relacionais_e_Logicos.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_1_Operadores_Aritmeticos_Relacionais_e_Logicos.ipynb)
 * **Aula 2** - Desvio Condicional (`IF`) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_2_Desvio_Condicional_IF.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_2_Desvio_Condicional_IF.ipynb)
 * **Aula 3** - Estruturas de Repetição (`FOR` e `WHILE`) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_3_Estruturas_de_Repeticao.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_3_Estruturas_de_Repeticao.ipynb)

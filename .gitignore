@@ -1,4 +1,5 @@
 Avaliações/
+slides/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
@@ -25,3 +26,4 @@ env/
 *.xlsx
 README_files
 README.html
+.Rhistory
