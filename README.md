@@ -29,14 +29,14 @@ Para configurar um ambiente local:
 
 1. Clone o repositório do GitHub: `git clone https://github.com/storopoli/ciencia-de-dados.git`
 2. Acesse o diretório: `cd ciencia-de-dados`
-3. Instale as bibliotecas necessárias: `pip install -r requirements.txt ` ou `conda env create -f environment.yml`
+3. Instale as bibliotecas necessárias: `pip install -r .binder/requirements.txt ` ou `conda env create -f .binder/environment.yml`
 
 * **[Notebooks](https://github.com/storopoli/ciencia-de-dados/tree/master/notebooks)**: Jupyter Notebooks das aulas
 
 ## Notebooks
 
 * **Aula Especial** - Curso Rápido de Python para Programadores [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_Especial_Python.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_Especial_Python.ipynb)
-* **Aula 0** - Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_0_Jupyter.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_0_Jupyter.ipynb) 
+* **Aula 0** - Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_0_Jupyter.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_0_Jupyter.ipynb)
 * **Aula 1** - Operadores aritméticos, relacionais e lógicos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_1_Operadores_Aritmeticos_Relacionais_e_Logicos.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_1_Operadores_Aritmeticos_Relacionais_e_Logicos.ipynb)
 * **Aula 2** - Desvio Condicional (`IF`) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_2_Desvio_Condicional_IF.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_2_Desvio_Condicional_IF.ipynb)
 * **Aula 3** - Estruturas de Repetição (`FOR` e `WHILE`) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_3_Estruturas_de_Repeticao.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_3_Estruturas_de_Repeticao.ipynb)
@@ -58,7 +58,7 @@ Para configurar um ambiente local:
 
 ## Como citar esse conteúdo
 
-Para citar o conteúdo use: 
+Para citar o conteúdo use:
 
 ```
 Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
