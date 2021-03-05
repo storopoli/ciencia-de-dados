@@ -29,7 +29,7 @@ Para configurar um ambiente local:
 
 1. Clone o repositório do GitHub: `git clone https://github.com/storopoli/ciencia-de-dados.git`
 2. Acesse o diretório: `cd ciencia-de-dados`
-3. Instale as bibliotecas necessárias: `pip install -r .binder/requirements.txt ` ou `conda env create -f .binder/environment.yml`
+3. Instale as bibliotecas necessárias: `pip install -r .binder/requirements.txt` ou `conda env create -f .binder/environment.yml`
 
 * **[Notebooks](https://github.com/storopoli/ciencia-de-dados/tree/master/notebooks)**: Jupyter Notebooks das aulas
 
