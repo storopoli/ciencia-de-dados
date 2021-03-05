@@ -6,6 +6,7 @@ dependencies:
   - python = 3.8
   - pip
   - numpy
+  - scipy
   - matplotlib
   - seaborn
   - pandas
