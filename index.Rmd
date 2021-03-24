@@ -1,7 +1,7 @@
 ---
 title: "Ciência de Dados"
 description: |
-  Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow.
+  Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch.
 author:
   - name: Jose Storopoli
     url: https://scholar.google.com/citations?user=xGU7H1QAAAAJ&hl=en
