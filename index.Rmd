@@ -33,7 +33,7 @@ Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](ht
 * **Análise de Dados com `pandas`**
 * **Visualização de Dados com `pandas`, `matplotlib` e `seaborn`**
 * **Machine Learning com `Scikit-Learn`**
-* **Redes Neurais com `TensorFlow` e `Keras`**
+* **Redes Neurais com `TensorFlow`, `Keras` e PyTorch**
 
 ## Professor
 
@@ -72,7 +72,8 @@ Para configurar um ambiente local:
 * **Aula 15** - Florestas Aleatórias com `Scikit-Learn`[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_15_Florestas_Aleatorias.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_15_Florestas_Aleatorias.ipynb)
 * **Aula 16** - Análise de Componentes Principais (PCA) com `Scikit-Learn`[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_16_Analise_de_Componentes_Principais.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_16_Analise_de_Componentes_Principais.ipynb)
 * **Aula 17** - Análise de Agrupamentos (Clusterização) com `Scikit-Learn`[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_17_Clusterizacao.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_17_Clusterizacao.ipynb)
-* **Aula 18** - Redes Neurais com `TensorFlow` e `Keras` [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_18_Redes_Neurais_com_TensorFlow.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_18_Redes_Neurais_com_TensorFlow.ipynb)
+* **Aula 18a** - Redes Neurais com `TensorFlow` e `Keras` [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_18_a_Redes_Neurais_com_TensorFlow.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_18_a_Redes_Neurais_com_TensorFlow.ipynb)
+* **Aula 18b** - Redes Neurais com `PyTorch` [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_18_b_Redes_Neurais_com_PyTorch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_18_b_Redes_Neurais_com_PyTorch.ipynb)
 
 ## Licença
 

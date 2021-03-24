@@ -2,6 +2,7 @@ name: ciencia-de-dados
 channels:
   - conda-forge
   - defaults
+  - pytorch
 dependencies:
   - python = 3.8
   - pip
@@ -13,6 +14,7 @@ dependencies:
   - openpyxl
   - xlrd
   - scikit-learn
+  - torch
   - rise
   - pip:
     - jupyter-contrib-nbextensions
