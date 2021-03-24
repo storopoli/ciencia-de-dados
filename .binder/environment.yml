@@ -14,7 +14,7 @@ dependencies:
   - openpyxl
   - xlrd
   - scikit-learn
-  - torch
+  - pytorch
   - rise
   - pip:
     - jupyter-contrib-nbextensions
