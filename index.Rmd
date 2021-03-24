@@ -33,7 +33,7 @@ Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](ht
 * **Análise de Dados com `pandas`**
 * **Visualização de Dados com `pandas`, `matplotlib` e `seaborn`**
 * **Machine Learning com `Scikit-Learn`**
-* **Redes Neurais com `TensorFlow`, `Keras` e PyTorch**
+* **Redes Neurais com `TensorFlow`, `Keras` e `PyTorch`**
 
 ## Professor
 
