@@ -7,5 +7,6 @@ pandas
 openpyxl
 scikit-learn
 tensorflow
+torch
 rise
 jupyter-contrib-nbextensions
