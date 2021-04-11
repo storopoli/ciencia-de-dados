@@ -22,11 +22,13 @@ jobs:
 
       - name: Setup tinytex
         uses: r-lib/actions/setup-tinytex@v1
+        env: 
+          TINYTEX_VERSION: 2021.04
 
       - name: Setup pandoc
         uses: r-lib/actions/setup-pandoc@v1
         with:
-          pandoc-version: 2.11.4
+          pandoc-version: 2.13
 
       - name: Install Packages
         run: Rscript -e 'install.packages("distill")'
