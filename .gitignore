@@ -1,6 +1,3 @@
-Avaliações/
-slides/
-
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
@@ -19,11 +16,4 @@ env/
 
 # Files
 .DS_Store
-*.gslides
-*.drawio
-.xlsx
-.xls
-*.xlsx
-README_files
-README.html
-.Rhistory
+
