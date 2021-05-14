@@ -57,6 +57,22 @@ Para configurar um ambiente local:
 * **Aula 18a** - Redes Neurais com `TensorFlow` e `Keras` [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_18_a_Redes_Neurais_com_TensorFlow.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_18_a_Redes_Neurais_com_TensorFlow.ipynb)
 * **Aula 18b** - Redes Neurais com `PyTorch` [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_18_b_Redes_Neurais_com_PyTorch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_18_b_Redes_Neurais_com_PyTorch.ipynb)
 
+## Proposta de Avaliação da Disciplina
+
+A avaliação pode ser realizada por meio de trabalho final no qual cada grupo de alunos (1 a 6 integrantes) devem entregar um notebook contendo os seguintes tarefas:
+
+1. Leitura de dados com `pandas`
+2. Manipulação e limpeza de dados com `pandas`
+3. Descritivo e exploração de dados com `pandas` (`groupby`s)
+4. Figuras que mostrem *insights* sobre os dados com `pandas` e `matplotlib`
+5. Quebrar os dados em conjunto de treino e conjunto de teste
+6. Treinar um estimador do `scikit-learn` de aprendizagem supervisionada (regressor ou classificador) no conjunto de treino
+7. Verificar o desempenho do estimador do `scikit-learn` no conjunto de teste
+
+A entrega pode ser via e-mail, mas é extremamente incentivado para que os alunos criem um repositório no GitHub aberto com um `README.md` bem escrito que explica o projeto. Isto pode já ser um incentivo para os alunos criarem os seus portfolio de projetos de ciências de dados no GitHub, algo que impulsionaria bastante a carreira deles.
+
+A correção dos trabalhos deverá levar em conta o tamanho dos grupos. Grupos pequenos têm maior tolerância de erros e inconsistências do que grupos com um maior número de integrantes.
+
 ## Como citar esse conteúdo
 
 Para citar o conteúdo use:
