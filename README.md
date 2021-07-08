@@ -1,6 +1,8 @@
 # Ciência de Dados
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/storopoli/ciencia-de-dados)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/storopoli/ciencia-de-dados)
 
 Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](https://www.uninove.br).
 
