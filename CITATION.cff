@@ -15,4 +15,5 @@ license: "CC-BY-SA-4.0"
 message: "Se você usa esse software, por favor cite-o com esses metadados."
 repository-code: "https://github.com/storopoli/ciencia-de-dados"
 title: "Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch"
+version: 1.0.0
 ...
