@@ -1,0 +1,18 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Storopoli
+    given-names: Jose
+    orcid: "https://orcid.org/0000-0002-0559-5176"
+cff-version: "1.1.0"
+date-released: 2020-02-01
+identifiers: 
+  - 
+    type: url
+    value: "https://github.com/storopoli/ciencia-de-dados"
+license: "CC-BY-SA-4.0"
+message: "Se você usa esse software, por favor cite-o com esses metadados."
+repository-code: "https://github.com/storopoli/ciencia-de-dados"
+title: "Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch"
+...
