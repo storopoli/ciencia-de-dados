@@ -61,7 +61,7 @@ Para configurar um ambiente local:
 
 ## Proposta de Avaliação da Disciplina
 
-A avaliação pode ser realizada por meio de trabalho final no qual cada grupo de alunos (1 a 6 integrantes) devem entregar um notebook contendo os seguintes tarefas:
+A avaliação pode ser realizada por meio de trabalho final no qual cada grupo de alunos (3 a 6 integrantes) devem entregar um notebook contendo os seguintes tarefas:
 
 1. Leitura de dados com `pandas`
 2. Manipulação e limpeza de dados com `pandas`
