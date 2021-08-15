@@ -59,6 +59,18 @@ Para configurar um ambiente local:
 * **Aula 18a** - Redes Neurais com `TensorFlow` e `Keras` [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_18_a_Redes_Neurais_com_TensorFlow.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_18_a_Redes_Neurais_com_TensorFlow.ipynb)
 * **Aula 18b** - Redes Neurais com `PyTorch` [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_18_b_Redes_Neurais_com_PyTorch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_18_b_Redes_Neurais_com_PyTorch.ipynb)
 
+## Cheat Sheets
+
+Algumas *cheat sheets* selecionadas para os temas e ferramentas da disciplina:
+
+* Pandas: [`pandas.pydata.org`](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+* Matplotlib: [`matplotlib/cheatsheets`](https://github.com/matplotlib/cheatsheets)
+* Scikit-Learn: [*choosing the right estimator*](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+* Git: [português](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/) ou [inglês](https://training.github.com/downloads/github-git-cheat-sheet/)
+* Machine Learning: diversas linguas em [`afshinea/stanford-cs-229-machine-learning`](https://github.com/afshinea/stanford-cs-229-machine-learning) e também [`remicnrd/ml_cheatsheet`](https://github.com/remicnrd/ml_cheatsheet)
+* Markdown: [sintaxe geral](https://www.markdownguide.org/cheat-sheet) e [sintaxe GitHub](https://github.com/tchapi/markdown-cheatsheet)
+* RegEx: [`regex101.com`](https://regex101.com/)
+* GitHub: atalhos do teclado em [português](https://docs.github.com/pt/get-started/using-github/keyboard-shortcuts) e [inglês](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
 ## Proposta de Avaliação da Disciplina
 
 A avaliação pode ser realizada por meio de trabalho final no qual cada grupo de alunos (3 a 6 integrantes) devem entregar um notebook contendo os seguintes tarefas:
