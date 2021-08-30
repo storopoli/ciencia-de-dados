@@ -10,18 +10,18 @@ Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](ht
 
 ## Conteúdo
 
-* **Python**
+* **Python e Programação Orientada à Objetos**
 * **Álgebra Linear com `NumPy`**
 * **Análise de Dados com `pandas`**
 * **Visualização de Dados com `pandas`, `matplotlib` e `seaborn`**
 * **Machine Learning com `Scikit-Learn`**
 * **Redes Neurais com `TensorFlow`, `Keras` e `PyTorch`**
 
-## Professor
+## Professores
 
-[Prof. Dr. José Eduardo Storopoli](https://storopoli.io) - [Currículo *Lattes*](http://lattes.cnpq.br/2281909649311607) - [ORCID](https://orcid.org/0000-0002-0559-5176)
+* [Prof. Dr. José Eduardo Storopoli](https://storopoli.io) - [Currículo *Lattes*](http://lattes.cnpq.br/2281909649311607) - [ORCID](https://orcid.org/0000-0002-0559-5176)
 
-[josees@uni9.pro.br](mailto:josees@uni9.pro.br)
+* Prof. Dr. Edson Melo de Souza - [Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510) - [ORCID](https://orcid.org/0000-0002-5891-4767)
 
 ## Como usar esse conteúdo?
 
@@ -43,7 +43,8 @@ Para configurar um ambiente local:
 * **Aula 2** - Desvio Condicional (`IF`) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_2_Desvio_Condicional_IF.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_2_Desvio_Condicional_IF.ipynb)
 * **Aula 3** - Estruturas de Repetição (`FOR` e `WHILE`) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_3_Estruturas_de_Repeticao.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_3_Estruturas_de_Repeticao.ipynb)
 * **Aula 4** - Estruturas de Dados (`list` e `dict`) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_4_Estrutura_de_Dados.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_4_Estrutura_de_Dados.ipynb)
-* **Aula 5** - Funções e métodos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_5_Metodos_e_Funcoes.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_5_Metodos_e_Funcoes.ipynb)
+* **Aula 5** - Funções [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_5_Funcoes.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_5_Funcoes.ipynb)
+* **Aula 5a** - Classes e métodos [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_5a_Classes_e_Metodos.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_5a_Classes_e_Metodos.ipynb)
 * **Aula 6** - `NumPy` e Algebra Linear [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_6_Numpy_Algebra_Linear.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_6_Numpy_Algebra_Linear.ipynb)
 * **Aula 7** - `pandas` [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_7_pandas.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_7_pandas.ipynb)
 * **Aula 8** - `pandas` estatística [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/storopoli/ciencia-de-dados/master?filepath=notebooks%2FAula_8_pandas_estatistica.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_8_pandas_estatistica.ipynb)
@@ -71,6 +72,7 @@ Algumas *cheat sheets* selecionadas para os temas e ferramentas da disciplina:
 * Markdown: [sintaxe geral](https://www.markdownguide.org/cheat-sheet) e [sintaxe GitHub](https://github.com/tchapi/markdown-cheatsheet)
 * RegEx: [`regex101.com`](https://regex101.com/)
 * GitHub: atalhos do teclado em [português](https://docs.github.com/pt/get-started/using-github/keyboard-shortcuts) e [inglês](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
+
 ## Proposta de Avaliação da Disciplina
 
 A avaliação pode ser realizada por meio de trabalho final no qual cada grupo de alunos (3 a 6 integrantes) devem entregar um notebook contendo os seguintes tarefas:
@@ -91,13 +93,13 @@ A correção dos trabalhos deverá levar em conta o tamanho dos grupos. Grupos p
 
 Para citar o conteúdo use:
 
-```
+```plaintext
 Storopoli (2020). Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch. Retrieved from https://storopoli.io/ciencia-de-dados
 ```
 
 Ou em formato BibTeX para LaTeX:
 
-```
+```bibtex
 @misc{storopoli2020cienciadedados,
   author = {Storopoli, Jose},
   title = {Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch},
@@ -108,7 +110,7 @@ Ou em formato BibTeX para LaTeX:
 
 ## Trabalhos Finais de Destaque
 
-- [Análise de Notas do ENEM de 2018](https://github.com/rafhaelgomes/Enem_dados_2018)
+* [Análise de Notas do ENEM de 2018](https://github.com/rafhaelgomes/Enem_dados_2018)
 
 ## Licença
 
