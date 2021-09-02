@@ -5,6 +5,10 @@ authors:
     family-names: Storopoli
     given-names: Jose
     orcid: "https://orcid.org/0000-0002-0559-5176"
+  -
+    family-names: Souza
+    given-names: Edson Melo de  
+    orcid: "https://orcid.org/0000-0002-5891-4767"
 cff-version: "1.1.0"
 date-released: 2020-02-01
 identifiers: 
