@@ -94,14 +94,14 @@ A correção dos trabalhos deverá levar em conta o tamanho dos grupos. Grupos p
 Para citar o conteúdo use:
 
 ```plaintext
-Storopoli (2020). Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch. Retrieved from https://storopoli.io/ciencia-de-dados
+Storopoli & Souza (2020). Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch. Retrieved from https://storopoli.io/ciencia-de-dados
 ```
 
 Ou em formato BibTeX para LaTeX:
 
 ```bibtex
-@misc{storopoli2020cienciadedados,
-  author = {Storopoli, Jose},
+@misc{storopolisouza2020cienciadedados,
+  author = {Storopoli, Jose and Souza, Edson Melo de},
   title = {Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch},
   url = {https://storopoli.io/ciencia-de-dados},
   year = {2020}
@@ -115,7 +115,7 @@ Ou em formato BibTeX para LaTeX:
 ## Licença
 
 Este obra está licenciado com uma Licença
-[Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional][cc-by-sa].
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
