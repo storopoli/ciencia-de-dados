@@ -115,7 +115,7 @@ Ou em formato BibTeX para LaTeX:
 ## Licença
 
 Este obra está licenciado com uma Licença
-[Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)][cc-by-sa].
+[Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
