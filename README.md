@@ -67,6 +67,7 @@ Algumas *cheat sheets* selecionadas para os temas e ferramentas da disciplina:
 * Pandas: [`pandas.pydata.org`](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * Matplotlib: [`matplotlib/cheatsheets`](https://github.com/matplotlib/cheatsheets)
 * Scikit-Learn: [*choosing the right estimator*](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+* PyTorch: [`pytorch.org`](https://pytorch.org/tutorials/beginner/ptcheat.html)
 * Git: [português](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/) ou [inglês](https://training.github.com/downloads/github-git-cheat-sheet/)
 * Machine Learning: diversas linguas em [`afshinea/stanford-cs-229-machine-learning`](https://github.com/afshinea/stanford-cs-229-machine-learning) e também [`remicnrd/ml_cheatsheet`](https://github.com/remicnrd/ml_cheatsheet)
 * Markdown: [sintaxe geral](https://www.markdownguide.org/cheat-sheet) e [sintaxe GitHub](https://github.com/tchapi/markdown-cheatsheet)
