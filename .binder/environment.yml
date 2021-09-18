@@ -16,6 +16,7 @@ dependencies:
   - scikit-learn
   - pytorch
   - rise
+  - jupyterthemes
   - pip:
     - jupyter-contrib-nbextensions
     - tensorflow >= 2.0
