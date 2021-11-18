@@ -15,6 +15,9 @@ dependencies:
   - xlrd
   - scikit-learn
   - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.3
   - rise
   - jupyterthemes
   - pip:
