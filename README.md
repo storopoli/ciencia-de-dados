@@ -112,6 +112,7 @@ Ou em formato BibTeX para LaTeX:
 ## Trabalhos Finais de Destaque
 
 * [Análise de Notas do ENEM de 2018](https://github.com/rafhaelgomes/Enem_dados_2018)
+* [Análise de Acidentes Aéreos no Brasil 2010-2019](https://github.com/rochawennis/Projeto_Integrador_2021)
 
 ## Licença
 
