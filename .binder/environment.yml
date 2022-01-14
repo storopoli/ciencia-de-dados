@@ -4,7 +4,7 @@ channels:
   - defaults
   - pytorch
 dependencies:
-  - python = 3.8
+  - python
   - pip
   - numpy
   - scipy
@@ -15,11 +15,7 @@ dependencies:
   - xlrd
   - scikit-learn
   - pytorch
-  - torchvision
-  - torchaudio
-  - cudatoolkit=11.3
   - rise
   - jupyterthemes
   - pip:
     - jupyter-contrib-nbextensions
-    - tensorflow >= 2.0
