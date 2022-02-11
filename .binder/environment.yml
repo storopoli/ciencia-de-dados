@@ -15,7 +15,8 @@ dependencies:
   - xlrd
   - scikit-learn
   - pytorch
+  # - cudatoolkit=11.3 # for CUDA PyTorch
   - rise
   - jupyterthemes
   - pip:
-    - jupyter-contrib-nbextensions
+      - jupyter-contrib-nbextensions
