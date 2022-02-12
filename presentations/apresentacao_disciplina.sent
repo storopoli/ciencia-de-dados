@@ -1,0 +1,132 @@
+Ciência de Dados
+   • 📓Prof. Dr. José Eduardo Storopoli
+   • ️️📩josees@uni9.pro.br
+   • 🌐storopoli.io🌐
+
+
+Orientação Geral
+   • Conteúdo da Disciplina: storopoli/ciencia-de-dados
+
+🤓O que é Ciência de Dados
+"Ciência de dados (em inglês: data science) é uma área interdisciplinar voltada
+para o estudo e a análise de dados econômicos, financeiros e sociais,
+estruturados e não-estruturados, que visa a extração de conhecimento,
+detecção de padrões e/ou obtenção de insights para possíveis tomadas de decisão."
+(DHAR, 2013)
+
+@images/data_science_triple_helix.png
+
+
+Por quê Ciência de Dados está um febre?
+   Big Data 💾
+      • Acumulado até 2013 - 4,400Eb
+      • Até 2025 - 463Eb/dia
+      • 1 exabyte (Eb) = 1,000,000 terabyte
+   Poder Computacional 💻
+      • Apollo 11 - 4kb RAM
+      • iPhone 11 Pro - 4Gb RAM
+      • 4Gb = 4,000,000kb
+   Nada disso é novo! 🙈
+      • Perceptron - 1957
+      • Regressão Logística - 1838
+      • SVM - 1963
+      • Redes Neurais - 1943
+
+Etapas da Ciência de Dados
+   • Exploração dos Dados
+   • Geração de Hipóteses
+   • Teste das Hipóteses
+
+Aonde encontrar Dados?
+   • Google Dataset Search: 🌐https://datasetsearch.research.google.com🌐
+   • Kaggle Datasets: 🌐https://www.kaggle.com/datasets🌐
+   • data.world: 🌐https://data.world🌐
+   • Mendeley Data: 🌐https://data.mendeley.com🌐
+   • Academic Torrents: http://academictorrents.com🌐
+   • NASA: 🌐https://nasa.github.io/data-nasa-gov-frontpage/🌐
+
+Aonde encontrar Dados sobre Brasi
+   • Portal Brasileiro de Dados Abertos: 🌐https://dados.gov.br🌐
+   • Brasil.io Datasets: 🌐https://brasil.io/datasets🌐
+   • Awesome Brazil Data: juliohm/awesome-brazil-data
+
+🔧Ferramentas para Ciência de Dados
+
+@images/python_logo.png
+
+@images/julia_logo_dark.png
+
+@images/r_logo.png
+
+Bibliotecas Python - open source
+
+⚙️Pandas
+   • Criado em 2008 por Wes McKinney
+   • Importação de dados como DataFrame
+   • CSV, Texto, Excel, SQL, HDF5, JSON, Feather, Google Big Query, SAS, SPSS, Stata, HTML, Arrow
+   • Transformação e combinação de dados: Wrangling, subsetting, groupby, etc.
+   • Séries Temporais
+   • Lançada v1.0 em Janeiro de 2020
+
+⚙️Matplotlib
+   • Lançada em 2003
+   • API orientada a objetos para gerar gráficos 2D também 3D
+   • Inspirada nos gráficos de MATLAB
+   • Pegada “Pythonesca”
+   • Criação dos gráfico com base em adição de objetos até obter o gráfico final
+
+⚙️NumPy
+   • Lançada em 2006 (Numeric 1995)
+   • Pacote básico de computação científica em Python
+   • Algebra linear: vetores, matrizes e arrays
+   • Operações de algebra linear: Decomposições, autovetores e autovalores, operações etc.
+   • Geração de número randômicos
+   • Transformações Fourier
+   • Utiliza BLAS e LAPLACK para velocidade e eficiência
+
+⚙️Statsmodel
+   • Criado em 2009 (Google Summer of Code)
+   • Modelos Estatísticos Frequentistas
+   • Integrado com pandas
+   • Computação com NumPy
+   • Gráficos em matplotlib
+   • Usa fórmulas estilo R: Y  ~ X + Z + X*Z
+
+⚙️Stan
+   • Criado em 2012 (Columbia University - Statistics)
+   • Estatística Bayesiana com Markov Chain Monte Carlo (MCMC)
+   • Hamiltonian Monte Carlo (HMC)
+   • Approximate Bayesian Inference with Variational Inference (ADVI)
+   • Motor em C++
+   • Wrappers em Python, R, Julia, MATLAB, Scala
+   • Stan Governing Body (SGB)
+
+⚙️Scikit-Learn
+   • Criado em 2007 (Google Summer of Code)
+   • Principal Biblioteca de Machine Learning (ML)
+   • Classificação, Regressão, Clusterização, Redução de Dimensão, Seleção de Modelos e Pré-processamento de dados
+   • SVM, Random Forests, Gradient Boosting, k-means etc.
+   • Integração com matplotlib, pandas, NumPy
+
+⚙️XGBoost
+   • Criado em 2014
+   • Biblioteca de Gradient Boosting
+   • Escrito em C++
+   • Wrappers em Python, R, Julia, Ruby
+   • Roda em GPU - NVIDIA CUDA
+
+⚙️TensorFlow
+   • Criado pelo Google em 2017
+   • Roda em GPU - NVIDIA CUDA
+   • Keras Nativo
+
+⚙️PyTorch
+   • Criado pelo Facebook em 2018
+   • Roda em GPU - NVIDIA CUDA
+
+Onde praticar Ciência de Dados?
+   • GitHub
+   • 🌐Kaggle
+
+📖Referências
+   • DHAR, Vasant. Data science and prediction. Communications of the ACM, v. 56, n. 12, p. 64-73, 2013.
