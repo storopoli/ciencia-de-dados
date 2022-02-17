@@ -82,7 +82,7 @@ Aonde encontrar Dados sobre Brasi
    • Operações de algebra linear: Decomposições, autovetores e autovalores, operações etc.
    • Geração de número randômicos
    • Transformações Fourier
-   • Utiliza BLAS e LAPLACK para velocidade e eficiência
+   • Utiliza BLAS e LAPACK para velocidade e eficiência
 
 ⚙️Statsmodel
    • Criado em 2009 (Google Summer of Code)
