@@ -19,7 +19,7 @@ Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](ht
 
 ## Professores
 
-* [Prof. Dr. José Eduardo Storopoli](https://storopoli.io) - [Currículo *Lattes*](http://lattes.cnpq.br/2281909649311607) - [ORCID](https://orcid.org/0000-0002-0559-5176)
+* [Prof. Dr. José Eduardo Storopoli](https://storopoli.github.io) - [Currículo *Lattes*](http://lattes.cnpq.br/2281909649311607) - [ORCID](https://orcid.org/0000-0002-0559-5176)
 
 * Prof. Dr. Edson Melo de Souza - [Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510) - [ORCID](https://orcid.org/0000-0002-5891-4767)
 
@@ -95,7 +95,7 @@ A correção dos trabalhos deverá levar em conta o tamanho dos grupos. Grupos p
 Para citar o conteúdo use:
 
 ```plaintext
-Storopoli & Souza (2020). Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch. Retrieved from https://storopoli.io/ciencia-de-dados
+Storopoli & Souza (2020). Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch. Retrieved from https://github.com/storopoli/ciencia-de-dados
 ```
 
 Ou em formato BibTeX para LaTeX:
@@ -104,7 +104,7 @@ Ou em formato BibTeX para LaTeX:
 @misc{storopolisouza2020cienciadedados,
   author = {Storopoli, Jose and Souza, Edson Melo de},
   title = {Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch},
-  url = {https://storopoli.io/ciencia-de-dados},
+  url = {https://storopoli.github.io/ciencia-de-dados},
   year = {2020}
 }
 ```
