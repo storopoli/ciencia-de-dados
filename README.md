@@ -104,7 +104,7 @@ Ou em formato BibTeX para LaTeX:
 @misc{storopolisouza2020cienciadedados,
   author = {Storopoli, Jose and Souza, Edson Melo de},
   title = {Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch},
-  url = {https://storopoli.github.io/ciencia-de-dados},
+  url = {https://github.com/storopoli/ciencia-de-dado},
   year = {2020}
 }
 ```
