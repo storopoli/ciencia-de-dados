@@ -1,13 +1,14 @@
 Ciência de Dados
-   • 📓Prof. Dr. José Eduardo Storopoli
-   • ️️📩josees@uni9.pro.br
+   • Prof. Dr. José Eduardo Storopoli
+   • ️️josees@uni9.pro.br
    • 🌐storopoli.io🌐
 
 
 Orientação Geral
-   • Conteúdo da Disciplina: storopoli/ciencia-de-dados
+   • Conteúdo da Disciplina: 🌐github.com/storopoli/ciencia-de-dados🌐
 
-🤓O que é Ciência de Dados
+O que é Ciência de Dados
+\
 "Ciência de dados (em inglês: data science) é uma área interdisciplinar voltada
 para o estudo e a análise de dados econômicos, financeiros e sociais,
 estruturados e não-estruturados, que visa a extração de conhecimento,
@@ -26,7 +27,7 @@ Por quê Ciência de Dados está um febre?
       • Apollo 11 - 4kb RAM
       • iPhone 11 Pro - 4Gb RAM
       • 4Gb = 4,000,000kb
-   Nada disso é novo! 🙈
+   Nada disso é novo! 
       • Perceptron - 1957
       • Regressão Logística - 1838
       • SVM - 1963
@@ -38,27 +39,27 @@ Etapas da Ciência de Dados
    • Teste das Hipóteses
 
 Aonde encontrar Dados?
-   • Google Dataset Search: 🌐https://datasetsearch.research.google.com🌐
-   • Kaggle Datasets: 🌐https://www.kaggle.com/datasets🌐
-   • data.world: 🌐https://data.world🌐
-   • Mendeley Data: 🌐https://data.mendeley.com🌐
-   • Academic Torrents: http://academictorrents.com🌐
-   • NASA: 🌐https://nasa.github.io/data-nasa-gov-frontpage/🌐
+   • Google Dataset Search: 🌐datasetsearch.research.google.com🌐
+   • Kaggle Datasets: 🌐kaggle.com/datasets🌐
+   • data.world: 🌐data.world🌐
+   • Mendeley Data: 🌐data.mendeley.com🌐
+   • Academic Torrents: 🌐academictorrents.com🌐
+   • NASA: 🌐nasa.github.io/data-nasa-gov-frontpage/🌐
 
 Aonde encontrar Dados sobre Brasil
-   • Portal Brasileiro de Dados Abertos: 🌐https://dados.gov.br🌐
-   • Brasil.io Datasets: 🌐https://brasil.io/datasets🌐
-   • Awesome Brazil Data: juliohm/awesome-brazil-data
+   • Portal Brasileiro de Dados Abertos: 🌐dados.gov.br🌐
+   • Brasil.io Datasets: 🌐brasil.io/datasets🌐
+   • Awesome Brazil Data: 🌐github.com/juliohm/awesome-brazil-data🌐
 
 🔧Ferramentas para Ciência de Dados
 
 @images/python_logo.png
 
-@images/julia_logo_dark.png
+@images/julia_logo.png
 
 @images/r_logo.png
 
-Bibliotecas Python - open source
+🔧Bibliotecas Python - open source
 
 ⚙️Pandas
    • Criado em 2008 por Wes McKinney
@@ -125,7 +126,7 @@ Aonde encontrar Dados sobre Brasil
    • Roda em GPU - NVIDIA CUDA
 
 Onde praticar Ciência de Dados?
-   • GitHub
+   • 🌐GitHub
    • 🌐Kaggle
 
 📖Referências
